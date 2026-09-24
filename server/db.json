@@ -1,0 +1,116 @@
+{
+  "gastos": [
+    {
+      "id": 1,
+      "lugar": "Supermercado",
+      "categoria": "Comida",
+      "monto": 5000,
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": 2,
+      "lugar": "Ferretería",
+      "categoria": "Hogar",
+      "monto": 2500,
+      "fecha": "2026-09-22"
+    },
+    {
+      "id": 3,
+      "lugar": "Estación de servicio",
+      "categoria": "Transporte",
+      "monto": 12000,
+      "fecha": "2026-09-22"
+    },
+    {
+      "id": 4,
+      "lugar": "Farmacia",
+      "categoria": "Salud",
+      "monto": 4500,
+      "fecha": "2026-09-21"
+    },
+    {
+      "id": 5,
+      "lugar": "Verdulería",
+      "categoria": "Comida",
+      "monto": 3200,
+      "fecha": "2026-09-21"
+    },
+    {
+      "id": 6,
+      "lugar": "Librería",
+      "categoria": "Educación",
+      "monto": 1800,
+      "fecha": "2026-09-20"
+    },
+    {
+      "id": 7,
+      "lugar": "Carnicería",
+      "categoria": "Comida",
+      "monto": 8500,
+      "fecha": "2026-09-19"
+    },
+    {
+      "id": 8,
+      "lugar": "Kiosco",
+      "categoria": "Almacén",
+      "monto": 1200,
+      "fecha": "2026-09-18"
+    },
+    {
+      "id": 9,
+      "lugar": "Panadería",
+      "categoria": "Comida",
+      "monto": 2100,
+      "fecha": "2026-09-18"
+    },
+    {
+      "id": 10,
+      "lugar": "Veterinaria",
+      "categoria": "Mascotas",
+      "monto": 9500,
+      "fecha": "2026-09-17"
+    },
+    {
+      "id": 11,
+      "lugar": "Cine",
+      "categoria": "Entretenimiento",
+      "monto": 7000,
+      "fecha": "2026-09-16"
+    },
+    {
+      "lugar": "anonima",
+      "categoria": "comida",
+      "monto": 20000,
+      "fecha": "2026-09-24",
+      "id": 12
+    },
+    {
+      "lugar": "Coope",
+      "categoria": "SUPER",
+      "monto": 85000,
+      "fecha": "2026-09-24",
+      "id": 13
+    },
+    {
+      "lugar": "Coope",
+      "categoria": "impuestos",
+      "monto": 300000,
+      "fecha": "2026-09-24",
+      "id": 14
+    },
+    {
+      "lugar": "Polleria El santa",
+      "categoria": "comida",
+      "monto": 36000,
+      "fecha": "2026-09-24",
+      "id": 15
+    },
+    {
+      "lugar": "Vazco",
+      "categoria": "ropa",
+      "monto": 50000,
+      "fecha": "2026-09-22",
+      "id": 16
+    }
+  ]
+}
